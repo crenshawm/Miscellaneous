@@ -1,0 +1,32 @@
+def greeting() = (name: String) => {"hello" + " " + name}
+val x = 2
+test:compile
+run
+compile
+run
+exit
+run
+compile
+run
+pwd
+run test.txt
+run ../test.txt
+run src/main/test.txt
+run test.txt
+compile
+exit
+run test.txt
+val pairs = 1
+scala
+run test.txt
+run pride.txt
+run test.txt
+run pride.txt
+run test.txt
+run pride.txt
+run test.txt
+run pride.txt
+run test.txt
+run lol.txt
+run test.txt
+run pride.txt

@@ -1,0 +1,1 @@
+scalac -bootclasspath C:\Users\markc\.sbt\boot\scala-2.12.6\lib\scala-library.jar -classpath C:\Users\markc\OneDrive\Documents\4\CSE 262\sbtTemplate\ngram\target\scala-2.12\classes C:\Users\markc\OneDrive\Documents\4\CSE 262\sbtTemplate\ngram\src\main\scala\ngram.scala
