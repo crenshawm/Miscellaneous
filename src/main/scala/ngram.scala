@@ -1,15 +1,6 @@
 import scala.io.Source
 import scala.collection.mutable.Map
 
-/*
-Name: Mark A Crenshaw
-Date: September 8th, 2018
-CSE262-011
-Dr. James A. Femister
-*/
-
-// The program ran in under 5 minutes on the Sunlab but on my personal
-// computer it ran in over 5 minutes. I apologize for any inconvenience.
 object Ngram {
   def main(args: Array[String]): Unit = {
     
